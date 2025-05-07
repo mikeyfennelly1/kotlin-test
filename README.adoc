@@ -1,0 +1,3 @@
+= kotlin-test
+
+A test project to try out the Kotlin programming language. I do not know yet what this project will be used for, I guess we'll have to find out folks.
